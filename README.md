@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/kalpeshmohanta?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/kalpesh-mohanta/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kalpesh%20Mohanta-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
