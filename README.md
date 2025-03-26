@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=kalpeshmohanta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/kalpeshmohanta)  
+- 👨‍💻 All of my projects are available at [https://github.com/kalpeshmohanta](https://github.com/kalpeshmohanta)  
 - 💬 Ask me about **DevOps & Cloud DevOps** 
 
 ---
